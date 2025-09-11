@@ -1,5 +1,0 @@
-x= int(input('please give me a number: '))
-y= int(input('please give me another number: '))
-print(" the 2 numbers put together are ", x + y)
-if(x=9 and y=10):
-    print('21 lolll')

@@ -1,3 +1,0 @@
-color = input('Pick a color ')
-animal = input('Pick an animal')
-print('You picked a ' + color + " " + animal )
