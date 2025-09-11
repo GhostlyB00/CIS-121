@@ -1,0 +1,8 @@
+humanYears=input('please enter your age')
+dogAge=(humanYears*7)
+print(f'your age in dog years is {dogAge}')
+
+days=humanYears*365
+months=humansYears//30=3
+Years= days//365
+print(f'your age in days is {days}, in months is {months} and in in years is {Years}')
