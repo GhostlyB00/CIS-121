@@ -1,0 +1,23 @@
+#this program will determine if you passed or failed a class based on your grade
+grade=(int(input("Enter a grade number 0-55: ")))
+if grade >=55 :
+    print(' you passed with a 55 or higher')
+elif grade >=53 :
+    print('you passed with a A')
+elif grade >=51 :
+    print('you passed with a A-')
+elif grade >=49 :
+    print('you passed with a B+')
+elif grade >=47 :
+    print('you passed with a B')
+elif grade >=45 :
+    print('you passed with a B-')
+elif grade >=43 :
+    print('you passed with a C+')
+elif grade >=40 :
+    print('you passed with a C')
+elif grade >=35 :
+    print ('you might have passed this class')
+elif grade <=34 :
+    print('you failed with a D+')
+
