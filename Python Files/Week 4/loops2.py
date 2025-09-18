@@ -45,10 +45,27 @@ while True:
         word += user_input
 print(f'the final word is {word}')
 
-'''
 
 #question 5
 sum = 0
 for number in range(51, 517, 2):
     sum += number
 print(sum)
+
+
+
+#question 6 
+sum = 0
+while True:
+    user_in = int(input ("please enter inputs"))
+    if user_in > 0:
+        break
+    else:
+        sum += user_in
+        print(sum)
+
+        
+'''
+
+# question 7
+
