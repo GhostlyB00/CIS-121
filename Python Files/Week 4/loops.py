@@ -13,7 +13,6 @@ user_number = int(input('please enter a number: '))
 for number in range (5 ,user_number +1 ):
     if number % 2 ==1:
         print(number) 
-'''
 
 total = 0 
 for number in range (0,50):
@@ -21,3 +20,7 @@ for number in range (0,50):
     if user_number =='q':
         break
     total += int(user_number)
+
+
+for variable in
+'''
