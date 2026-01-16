@@ -33,7 +33,11 @@ class Cake:
         self.batter = _batter
         self.frosting = _frosting
         self.flavor = _flavor
-    def get
+    def get_batter(self):
+        return self.batter
+    def get_frosting(self):
+        return self.frosting
+    def get_flavor
 
         
 
